@@ -9,4 +9,6 @@ Download [Google Drive](https://drive.google.com/file/d/1SSDPq_ZxVXDLJ8kqi8GHuTG
 ### Community Maintained Image.
 If you're having problems with this image find us at the [RetroHandhelds Discord](https://discord.gg/RetroHandhelds)
 
-[ArkOS Wiki](https://github.com/christianhaitian/arkos/wiki) | [Flashing Guide](https://ko-fi.com/post/Installation-Guide-for-ArkOS-v2-0-01272024-J3J6TVPH1) |
+[ArkOS Wiki](https://github.com/christianhaitian/arkos/wiki) | [Flashing Guide](https://ko-fi.com/post/Installation-Guide-for-ArkOS-v2-0-01272024-J3J6TVPH1) 
+🎮☕ Loving my work? Let’s power up together – buy me a coffee! 🕹️✨  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R7TMKNX)
