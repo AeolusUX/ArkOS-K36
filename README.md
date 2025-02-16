@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/AeolusUX/ArkOS-R3XS/main/logo.bmp)
 
 ## K36 and Similar Clones
-Download [Google Drive](https://drive.google.com/file/d/1SSDPq_ZxVXDLJ8kqi8GHuTGKB58ESXTb/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/zzznhoq308i5nvi/ArkOS_K36_v2.0_01122025.img.xz/file) | [MEGA](https://mega.nz/file/jzIFXIoL#mM8mjpgoVWpssKvy8S3vNT9v15JHUCGOV4rYd4po4cY) ArkOS 2.0 (01182025)
+Download [Google Drive](https://drive.google.com/file/d/1SSDPq_ZxVXDLJ8kqi8GHuTGKB58ESXTb/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/zzznhoq308i5nvi/ArkOS_K36_v2.0_01122025.img.xz/file) | [MEGA](https://mega.nz/file/Wu5i3b5L#a_NFHyIIXh03aV_oQO0MisrUCoUSX9PyMxxpzJ6cQuM) ArkOS 2.0 (02162025)
 
 
 
