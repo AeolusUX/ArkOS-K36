@@ -1,6 +1,7 @@
 ![](https://raw.githubusercontent.com/AeolusUX/ArkOS-K36/refs/heads/main/purple.bmp)
 
 ## K36 and Similar Clones
+
 Download for K36 and Similar Clones [Google Drive](https://drive.google.com/file/d/1GRBk7kGe22DilZiJlWOBtBm2jgtob4qF/view?usp=drive_link) | [Mediafire](https://www.mediafire.com/file/zzznhoq308i5nvi/ArkOS_K36_v2.0_02212025.img.xz/file) | [MEGA](https://mega.nz/file/UlRBgQJT#O03aTloZPl75PFARr1oUNPO6hF8P21Fftc8Yg7Ajl3M) ArkOS 2.0 (03112025)
 
 Download for U8 Handheld [Google Drive](https://drive.google.com/file/d/1xpByPJJhKn7TOQxCrALWYDLdygdTyR6H/view?usp=drive_link) | [Mediafire](https://www.mediafire.com/file/8wqjegrjmmj0v53/ArkOS_U8_v2.0_02212025.img.xz/file) | [MEGA](https://mega.nz/file/t0wT1JBa#y9pXDgjleacdfte-35dNW6HR-AiDIs1pOPtFaZ9l3jA) ArkOS 2.0 (03112025)
