@@ -13,6 +13,8 @@ If you're having problems with this image find us at the [RetroHandhelds Discord
 
 [ArkOS Wiki](https://github.com/christianhaitian/arkos/wiki) | [Flashing Guide](https://ko-fi.com/post/Installation-Guide-for-ArkOS-v2-0-01272024-J3J6TVPH1) |
 
+# Disclaimer
+Support for this OS is made on a best effort basis and is subject to change at any time. I make no guarantee on support or capabilities of this image. Use at your own risk! I do not provide support or condone the use of preloaded images or ROM packs. These images are provided as-is, and I reserve the right to support or not support devices and features that users may request. However, users are free to use any code provided here as a basis for creating their own image if they choose to do so.
 
 # Donate
 🎮☕ Loving my work? Let’s power up together – buy me a coffee! 🕹️✨  
