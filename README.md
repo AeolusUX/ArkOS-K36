@@ -2,7 +2,7 @@
 
 ## K36 and Similar Clones
 
-Download for K36 and R36S Clones [Google Drive](https://drive.google.com/file/d/1GRBk7kGe22DilZiJlWOBtBm2jgtob4qF/view?usp=drive_link) | [Mediafire](https://www.mediafire.com/file/zzznhoq308i5nvi/ArkOS_K36_v2.0_02212025.img.xz/file) | [MEGA](https://mega.nz/file/UlRBgQJT#O03aTloZPl75PFARr1oUNPO6hF8P21Fftc8Yg7Ajl3M) ArkOS 2.0 (04252025)
+Download for K36 and R36S Clones [Google Drive](https://drive.google.com/file/d/1GRBk7kGe22DilZiJlWOBtBm2jgtob4qF/view?usp=drive_link) | [Mediafire](https://www.mediafire.com/file/zzznhoq308i5nvi/ArkOS_K36_v2.0_02212025.img.xz/file) | [MEGA](https://mega.nz/file/UlRBgQJT#O03aTloZPl75PFARr1oUNPO6hF8P21Fftc8Yg7Ajl3M) ArkOS 2.0 (03112025)
 
 <!-- Download for K36S [Google Drive]() | [Mediafire]() | [MEGA]() ArkOS 2.0 ()
 
