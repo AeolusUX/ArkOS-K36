@@ -6,9 +6,9 @@ Download for K36 and R36S Clones [Google Drive](https://drive.google.com/file/d/
 
 <!-- Download for K36S [Google Drive]() | [Mediafire]() | [MEGA]() ArkOS 2.0 ()
 
-Download for R36 Pro [Google Drive]() | [Mediafire]() | [MEGA]() ArkOS 2.0 ()
+Download for R36 Pro [Google Drive]() | [Mediafire]() | [MEGA]() ArkOS 2.0 () -->
 
-Download for R36 Max [Google Drive]() | [Mediafire]() | [MEGA]() ArkOS 2.0 () -->
+Download for R36 Max [Google Drive](https://drive.google.com/file/d/1GeVEGPOteQtgtw0NcLlbRUvTmY8PUzmM/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/tejgralrcpsvamk/ArkOS_R36Max_v2.0_04292025.img.xz/file) | [MEGA](https://mega.nz/file/ElQRVYyK#MZ6zEePOfh9RR6zWhXtjdgEMJZf-KsYfcgYO1X5BVwk) ArkOS 2.0 (04292025) 
 
 Download for U8 Handheld [Google Drive](https://drive.google.com/file/d/1xpByPJJhKn7TOQxCrALWYDLdygdTyR6H/view?usp=drive_link) | [Mediafire](https://www.mediafire.com/file/8wqjegrjmmj0v53/ArkOS_U8_v2.0_02212025.img.xz/file) | [MEGA](https://mega.nz/file/KKAUTBID#tFQReBbI7YyFEMQaPC4ZyHWgXZ9jsQp6qcBHrapo7M4) ArkOS 2.0 (04232025)
 
