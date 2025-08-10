@@ -8,7 +8,7 @@ Download for K36 and R36S Clones [Google Drive](https://drive.google.com/file/d/
 
 Download for R36 Pro [Google Drive]() | [Mediafire]() | [MEGA]() ArkOS 2.0 () -->
 
-Download for MyMini [Google Drive](https://drive.google.com/file/d/1OUMwELVfJ_IK3X7b6-R7ggtZis2QI1Ov/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/ahsqkbwu3msdtrm/ArkOS_MyMini_v2.0_04292025.img.xz/file) | [MEGA](https://mega.nz/file/x0R1GYZJ#1ztHywxs9mQtU9OlhzJXGYNSsmzYKNLdOtOf2OaPy3c) ArkOS 2.0 (04292025)
+<!-- Download for MyMini [Google Drive](https://drive.google.com/file/d/1OUMwELVfJ_IK3X7b6-R7ggtZis2QI1Ov/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/ahsqkbwu3msdtrm/ArkOS_MyMini_v2.0_04292025.img.xz/file) | [MEGA](https://mega.nz/file/x0R1GYZJ#1ztHywxs9mQtU9OlhzJXGYNSsmzYKNLdOtOf2OaPy3c) ArkOS 2.0 (04292025) -->
 
 
 Download for R36 Max [Google Drive](https://drive.google.com/file/d/1GeVEGPOteQtgtw0NcLlbRUvTmY8PUzmM/view?usp=sharing) | [Mediafire](https://www.mediafire.com/file/tejgralrcpsvamk/ArkOS_R36Max_v2.0_04292025.img.xz/file) | [MEGA](https://mega.nz/file/ElQRVYyK#MZ6zEePOfh9RR6zWhXtjdgEMJZf-KsYfcgYO1X5BVwk) ArkOS 2.0 (04292025) 
