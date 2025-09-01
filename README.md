@@ -2,6 +2,9 @@
 
 ![ArkOS Logo](https://raw.githubusercontent.com/AeolusUX/ArkOS-K36/refs/heads/main/purple.bmp)
 
+## Project Continuation Update
+As of September 1, 2025, we are excited to share that the ArkOS project has been picked up by dedicated community members, led by lcdyk0517, who are committed to continuing its development for clone devices. While the original ArkOS-K36 project is sunset and archived, this new initiative, hosted at [ArkOS4Clone](https://github.com/lcdyk0517/arkos4clone), ensures ongoing support and innovation for these devices. Stay tuned for further updates on the RetroHandhelds Discord for details on the continued development.
+
 ## Important Announcement: Project Sunset Notice and Archival
 
 As of August 25, 2025, we are announcing that the community-maintained ArkOS project for the K36, R36S Clones, R36Max, U8 Handheld, and RX6H will be **sunset and archived**. With the official and mod release of the K36 on the horizon, this project will no longer receive updates or active support. We want to thank the RetroHandhelds community, contributors, and users for their incredible support and collaboration in making ArkOS a viable solution for these devices.
@@ -30,6 +33,16 @@ With the official K36 release and mod support approaching, we recommend users pr
 ### Contributing and Forking
 As stated in the original disclaimer, users are free to use the code in this repository as a basis for creating their own firmware images. We encourage the community to continue innovating and sharing their work, whether for K36 clones or other devices.
 
+## Alternative Firmware Options
+
+For users looking for other firmware options compatible with these devices, consider exploring the following community-supported projects:
+
+- Rocknix: A robust firmware solution for various handheld devices, offering a modern interface and broad compatibility.
+[Rocknix GitHub](https://github.com/stolen/r.nix-distribution/releases)
+
+- UnofficialOS: Another community-driven firmware providing alternative features and support for retro handhelds. 
+[UnofficialOS GitHub](https://github.com/RetroGFX/UnofficialOS/releases)
+
 ### Thank You
 We are immensely grateful to everyone who contributed to this project, from code contributions to bug reports and community support on Discord. Your efforts have helped countless users enjoy retro gaming on these budget handhelds. While this chapter is closing, we look forward to seeing how the community embraces the official K36 release and beyond.
 
@@ -39,3 +52,6 @@ Support for this OS has been provided on a best-effort basis and is now disconti
 ### Donate
 🎮☕ Loved this project? Support the maintainer’s work by buying a coffee! 🕹️✨  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R7TMKNX)
+
+
+
