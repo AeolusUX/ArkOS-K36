@@ -24,8 +24,8 @@ If you're having problems with these images, find us at the [RetroHandhelds Disc
 
 [ArkOS Wiki](https://github.com/christianhaitian/arkos/wiki) | [Flashing Guide](https://ko-fi.com/post/Installation-Guide-for-ArkOS-v2-0-01272024-J3J6TVPH1)
 
-### Transitioning to the Official K36 Release
-With the official K36 release and mod support approaching, we recommend users prepare to migrate to the new firmware for improved performance, features, and compatibility. Check the official Kinhank website or community channels like RetroHandhelds Discord for updates on the release.
+Transitioning to the Official K36 Release
+With the official K36 release and mod support approaching, we recommend users prepare to migrate to the new firmware for improved performance, features, and compatibility. Check the community channels like RetroHandhelds Discord for updates on the release.
 
 ### Contributing and Forking
 As stated in the original disclaimer, users are free to use the code in this repository as a basis for creating their own firmware images. We encourage the community to continue innovating and sharing their work, whether for K36 clones or other devices.
